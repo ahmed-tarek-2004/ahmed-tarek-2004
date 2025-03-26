@@ -74,9 +74,10 @@
   <a href="https://www.linkedin.com/in/ahmed-zaher-62a652255/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtarek7580@gmail.com)
-
+  
+   <a href= "mailto: ahmedtarek7580@gmail@gmail.com">
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />  
+</a>
 
   </a>
   <a href="https://codeforces.com/profile/Tarek_Ware" target="_blank">
