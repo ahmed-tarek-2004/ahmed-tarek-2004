@@ -74,8 +74,9 @@
   <a href="https://www.linkedin.com/in/ahmed-zaher-62a652255/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="ahmedtarek7580@gmail.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" alt="Gmail" height="30" width="40" style="background-color: white; border-radius: 5px; padding: 5px;" />
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtarek7580@gmail.com)
+
 
   </a>
   <a href="https://codeforces.com/profile/Tarek_Ware" target="_blank">
