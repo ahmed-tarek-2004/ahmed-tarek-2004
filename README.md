@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++">
+  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 </p>
 
 ### 🚀 About Me
@@ -46,6 +49,9 @@
         <ul style="list-style-type: none; padding: 0;">
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">Git</li>
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">GitHub</li>
+         
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+          ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
         </ul>
 
 ### 🛠️ Featured Projects
