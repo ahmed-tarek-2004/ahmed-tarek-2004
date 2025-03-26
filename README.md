@@ -15,14 +15,12 @@
 - 🔭 I'm currently working on **.NET Projects**
 - 🌱 I'm currently learning **.NET API**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
-
-### 💻 Tech Stack
+###💻 Tech Stack
 
     <div style="max-width: 600px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; 
                 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <h2 style="color: #333;">My Skills</h2>
-
-        <div style="font-weight: bold; margin-top: 15px; color: #555;">Backend</div>
+     <div style="font-weight: bold; margin-top: 15px; color: #555;">Backend</div>
         <ul style="list-style-type: none; padding: 0;">
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">C#</li>
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">.NET Core</li>
@@ -32,13 +30,12 @@
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">MVC</li>
         </ul>
 
-        <div style="font-weight: bold; margin-top: 15px; color: #555;">Database</div>
+  <div style="font-weight: bold; margin-top: 15px; color: #555;">Database</div>
         <ul style="list-style-type: none; padding: 0;">
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">SQL Server</li>
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">T-SQL</li>
         </ul>
-
-        <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
+      <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
         <ul style="list-style-type: none; padding: 0;">
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">Git</li>
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">GitHub</li>
@@ -47,7 +44,7 @@
 ### 🛠️ Featured Projects
 <div align="center">
 <a href="https://github.com/ahmed-tarek-2004/Payment_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-tarek-2004&repo=Library_System&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-tarek-2004&repo=Payment_System&theme=dark" />
 </a>
 </div>
 
