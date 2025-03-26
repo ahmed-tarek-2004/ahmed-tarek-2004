@@ -17,10 +17,10 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
 
 
-###💻 Tech Stack
-    <div style="max-width: 600px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; 
+### 💻Tech Stack
+   <div style="max-width: 600px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; 
                 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-        <h2 style="color: #333;">My Skills</h2>
+        <h2 style="color: #333;">Techs</h2>
      <div style="font-weight: bold; margin-top: 15px; color: #555;">Backend</div>
         <ul style="list-style-type: none; padding: 0;">
             <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">C#</li>
