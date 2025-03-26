@@ -45,9 +45,8 @@
         </ul>
       <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
         <ul style="list-style-type: none; padding: 0;">
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">Git</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">GitHub</li>
-          <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
+      
+ <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
 <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt="Linux"></li>
 <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></li>
 <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
