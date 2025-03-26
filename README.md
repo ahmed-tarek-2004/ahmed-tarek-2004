@@ -76,7 +76,10 @@
   </a>
   
    <a href= "mailto: ahmedtarek7580@gmail@gmail.com">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />  
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" 
+     alt="Gmail" height="30" width="40" 
+     style="background-color: white; border-radius: 5px; padding: 5px; object-fit: contain;" />
+ 
 </a>
 
   </a>
