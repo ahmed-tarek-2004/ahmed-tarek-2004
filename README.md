@@ -25,7 +25,7 @@
 
 
 ### 💻Tech Stack
-<div align="center">
+<div align="center" style="background-color: #808080; border: 2px solid #444c56; padding: 20px; border-radius: 12px;">
   <div style="
       display: inline-block;
       width: 45%;
