@@ -25,19 +25,21 @@
 
 
 ### 💻Tech Stack
-  <div align="center">
+<div align="center">
   <div style="
       display: inline-block;
       width: 45%;
       min-width: 250px;
-      background-color: #1e1e1e;
-      color: white;
-      border: 1px solid gray;
-      border-radius: 10px;
+      background-color: #22272e;
+      color: #adbac7;
+      border: 2px solid #444c56;
+      border-radius: 12px;
       padding: 15px;
       margin: 10px;
-      text-align: left;">
-    <h3>🖥 Backend</h3>
+      text-align: left;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+      ">
+    <h3 style="color: #ffffff;">🖥 Backend</h3>
     <ul>
       <li>C#</li>
       <li>.NET Core</li>
@@ -52,14 +54,16 @@
       display: inline-block;
       width: 45%;
       min-width: 250px;
-      background-color: #1e1e1e;
-      color: white;
-      border: 1px solid gray;
-      border-radius: 10px;
+      background-color: #22272e;
+      color: #adbac7;
+      border: 2px solid #444c56;
+      border-radius: 12px;
       padding: 15px;
       margin: 10px;
-      text-align: left;">
-    <h3>💾 Database</h3>
+      text-align: left;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+      ">
+    <h3 style="color: #ffffff;">💾 Database</h3>
     <ul>
       <li>SQL Server</li>
       <li>T-SQL</li>
