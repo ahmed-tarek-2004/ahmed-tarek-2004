@@ -25,51 +25,19 @@
 
 
 ### 💻Tech Stack
-<div align="center" style="background-color: #808080; border: 2px solid #444c56; padding: 20px; border-radius: 12px;">
-  <div style="
-      display: inline-block;
-      width: 45%;
-      min-width: 250px;
-      background-color: #22272e;
-      color: #adbac7;
-      border: 2px solid #444c56;
-      border-radius: 12px;
-      padding: 15px;
-      margin: 10px;
-      text-align: left;
-      box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
-      ">
-    <h3 style="color: #ffffff;">🖥 Backend</h3>
-    <ul>
-      <li>C#</li>
-      <li>.NET Core</li>
-      <li>ASP.NET</li>
-      <li>LINQ</li>
-      <li>Entity Framework</li>
-      <li>MVC</li>
-    </ul>
-  </div>
+# Technology Stack
 
-  <div style="
-      display: inline-block;
-      width: 45%;
-      min-width: 250px;
-      background-color: #22272e;
-      color: #adbac7;
-      border: 2px solid #444c56;
-      border-radius: 12px;
-      padding: 15px;
-      margin: 10px;
-      text-align: left;
-      box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
-      ">
-    <h3 style="color: #ffffff;">💾 Database</h3>
-    <ul>
-      <li>SQL Server</li>
-      <li>T-SQL</li>
-    </ul>
-  </div>
-</div>
+## 🖥 Backend
+- **C#**
+- **.NET Core**
+- **ASP.NET**
+- **LINQ**
+- **Entity Framework**
+- **MVC**
+
+## 💾 Database
+- **SQL Server**
+- **T-SQL**
 
    <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
         <ul style="list-style-type: none; padding: 0;">
