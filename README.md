@@ -19,9 +19,9 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **.NET Projects**
-- 🌱 I'm currently learning **.NET API**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
+  - 🔭 I'm currently working on **.NET Projects**
+  - 🌱 I'm currently learning **.NET API**
+  - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
 
 
 ### 💻Tech Stack
@@ -76,22 +76,19 @@
 ### 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-zaher-62a652255/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
    <a href= "mailto: ahmedtarek7580@gmail@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" 
-     alt="Gmail" height="30" width="40" 
-     style="background-color: white; border-radius: 5px; padding: 5px; object-fit: contain;" />
- 
+ <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
   </a>
   <a href="https://codeforces.com/profile/Tarek_Ware" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> 
   </a>
   <a href="https://leetcode.com/u/ahmedtarek756471/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
