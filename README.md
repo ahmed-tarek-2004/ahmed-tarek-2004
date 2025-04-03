@@ -26,7 +26,17 @@
 
 ### 💻Tech Stack
   <div align="center">
-  <div style="border: 1px solid gray; border-radius: 10px; padding: 10px; width: 50%; background-color: #1e1e1e;">
+  <div style="
+      display: inline-block;
+      width: 45%;
+      min-width: 250px;
+      background-color: #1e1e1e;
+      color: white;
+      border: 1px solid gray;
+      border-radius: 10px;
+      padding: 15px;
+      margin: 10px;
+      text-align: left;">
     <h3>🖥 Backend</h3>
     <ul>
       <li>C#</li>
@@ -38,9 +48,17 @@
     </ul>
   </div>
 
-  <br>
-
-  <div style="border: 1px solid gray; border-radius: 10px; padding: 10px; width: 50%; background-color: #1e1e1e;">
+  <div style="
+      display: inline-block;
+      width: 45%;
+      min-width: 250px;
+      background-color: #1e1e1e;
+      color: white;
+      border: 1px solid gray;
+      border-radius: 10px;
+      padding: 15px;
+      margin: 10px;
+      text-align: left;">
     <h3>💾 Database</h3>
     <ul>
       <li>SQL Server</li>
