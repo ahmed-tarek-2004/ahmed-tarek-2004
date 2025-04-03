@@ -25,25 +25,31 @@
 
 
 ### 💻Tech Stack
-   <div style="max-width: 600px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; 
-                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-        <h2 style="color: #333;">Techs</h2>
-     <div style="font-weight: bold; margin-top: 15px; color: #555;">Backend</div>
-        <ul style="list-style-type: none; padding: 0;">
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">C#</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">.NET Core</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">ASP.NET</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">LINQ</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">Entity Framework</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">MVC</li>
-        </ul>
+  <div align="center">
+  <div style="border: 1px solid gray; border-radius: 10px; padding: 10px; width: 50%; background-color: #1e1e1e;">
+    <h3>🖥 Backend</h3>
+    <ul>
+      <li>C#</li>
+      <li>.NET Core</li>
+      <li>ASP.NET</li>
+      <li>LINQ</li>
+      <li>Entity Framework</li>
+      <li>MVC</li>
+    </ul>
+  </div>
 
-  <div style="font-weight: bold; margin-top: 15px; color: #555;">Database</div>
-        <ul style="list-style-type: none; padding: 0;">
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">SQL Server</li>
-            <li style="background: #e7e7e7; margin: 5px 0; padding: 8px; border-radius: 5px; display: inline-block;">T-SQL</li>
-        </ul>
-      <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
+  <br>
+
+  <div style="border: 1px solid gray; border-radius: 10px; padding: 10px; width: 50%; background-color: #1e1e1e;">
+    <h3>💾 Database</h3>
+    <ul>
+      <li>SQL Server</li>
+      <li>T-SQL</li>
+    </ul>
+  </div>
+</div>
+
+   <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
         <ul style="list-style-type: none; padding: 0;">
       
  <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
