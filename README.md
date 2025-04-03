@@ -39,8 +39,7 @@
 - **SQL Server**
 - **T-SQL**
 
-   <div style="font-weight: bold; margin-top: 15px; color: #555;">Tools</div>
-        <ul style="list-style-type: none; padding: 0;">
+## Tools
       
  <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
 <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt="Linux"></li>
