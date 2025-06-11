@@ -41,7 +41,6 @@
 
 
 ### 💻Tech Stack
-# Technology Stack
 
 ## 🖥 Backend
 - **C#**
