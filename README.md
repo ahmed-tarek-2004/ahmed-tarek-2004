@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-tarek-2004&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-### 📫 Connect with me
+### 📫 Other Links
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-zaher-62a652255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
