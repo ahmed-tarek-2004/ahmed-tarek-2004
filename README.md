@@ -49,6 +49,7 @@
 - **LINQ**
 - **Entity Framework**
 - **MVC**
+- **API**
 
 ## 💾 Database
 - **SQL Server**
