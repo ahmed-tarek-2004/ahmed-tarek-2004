@@ -66,7 +66,7 @@
 ### 🛠️ Featured Projects
 <div align="center">
 <a href="https://github.com/ahmed-tarek-2004/Payment_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-tarek-2004&repo=Payment_System&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-tarek-2004&repo=Bulky_Web_MVC&theme=dark" />
 </a>
 </div>
 
