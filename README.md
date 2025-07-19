@@ -101,4 +101,7 @@
   <a href="https://leetcode.com/u/ahmedtarek756471/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+   <a href="http://discordapp.com/users/1056615401850671114" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="LeetCode Badge"/>
+</a>
 </p>
