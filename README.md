@@ -38,7 +38,7 @@
   - 🔭 I'm currently working on **.NET Projects**
   - 🌱 I'm currently learning **.NET API**
   - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
-
+  - 📫 How to reach me **ahmedtarek7580@gmail.com**  
 
 ### 💻 Tech Stack
 
@@ -97,7 +97,7 @@
  
 <div align="center">
   
-![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake-dark.gif)
 </div>
 
 ### 📫 Other Links
