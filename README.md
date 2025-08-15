@@ -40,28 +40,44 @@
   - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
 
 
-### 💻Tech Stack
+### 💻 Tech Stack
 
-## 🖥 Backend
-- **C#**
-- **.NET Core**
-- **ASP.NET**
-- **LINQ**
-- **Entity Framework**
-- **MVC**
-- **API**
+<table>
+  <tr>
+    <!-- Backend Column -->
+    <td valign="top" width="34%">
+      <h3>🖥 Backend</h3>
+      <ul>
+        <li><b>C#</b></li>
+        <li><b>.NET Core</b></li>
+        <li><b>ASP.NET</b></li>
+        <li><b>LINQ</b></li>
+        <li><b>Entity Framework</b></li>
+        <li><b>MVC</b></li>
+        <li><b>API</b></li>
+      </ul>
+    </td>
+    <!-- Tools Column -->
+    <td valign="top" width="33%">
+      <h3>🛠 Tools</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
+        <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt="Linux"></li>
+        <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></li>
+        <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+    <h3> 🏆 Top Languages</h3>
+      <ul>
+        <li>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-tarek-2004&layout=compact&theme=dark" alt="Top Languages" />
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 💾 Database
-- **SQL Server**
-- **T-SQL**
-
-## Tools
-      
- <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
-<li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt="Linux"></li>
-<li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></li>
-<li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
-        </ul>
 
 ### 🛠️ Featured Projects
 <div align="center">
@@ -81,11 +97,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tarek-2004&theme=dark" alt="GitHub Streak" />
 </div>
-
-### 🏆 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-tarek-2004&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.gif)
 
 ### 📫 Other Links
 <p align="center">
@@ -109,4 +121,3 @@
 </a>
 </p>
 
-![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.gif)
