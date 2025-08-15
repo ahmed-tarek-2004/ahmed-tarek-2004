@@ -67,7 +67,7 @@
         <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
       </ul>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="35%" height="50px" >
     <h3> 🏆 Top Languages</h3>
       <ul>
         <li>
@@ -97,6 +97,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tarek-2004&theme=dark" alt="GitHub Streak" />
 </div>
+
 ![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.gif)
 
 ### 📫 Other Links
