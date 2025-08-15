@@ -97,7 +97,7 @@
  
 <div align="center">
   
-![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake-dark.gif)
 </div>
 
 ### 📫 Other Links
