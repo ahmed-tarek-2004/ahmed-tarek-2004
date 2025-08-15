@@ -94,10 +94,9 @@
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  
+ 
  ![snake gif] (https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.gif)
-</div>
+
 
 ### 📫 Other Links
 <p align="center">
