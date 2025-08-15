@@ -42,11 +42,12 @@
 
 ### 💻 Tech Stack
 
+<div align="center">
 <table>
   <tr>
     <!-- Backend Column -->
-    <td valign="top" width="34%">
-      <h3>🖥 Backend</h3>
+    <td valign="top" width="33%">
+      <h3 align="center">🖥 Backend</h3>
       <ul>
         <li><b>C#</b></li>
         <li><b>.NET Core</b></li>
@@ -57,37 +58,30 @@
         <li><b>API</b></li>
       </ul>
     </td>
+
     <!-- Tools Column -->
     <td valign="top" width="33%">
-      <h3>🛠 Tools</h3>
+      <h3 align="center">🛠 Tools</h3>
       <ul>
-        <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></li>
-        <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt="Linux"></li>
-        <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></li>
-        <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
+        <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></li>
+        <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label="></li>
+        <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></li>
       </ul>
     </td>
-    <td valign="top" width="35%" height="50px" >
-    <h3> 🏆 Top Languages</h3>
-      <ul>
-        <li>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-tarek-2004&layout=compact&theme=dark" alt="Top Languages" />
-        </li>
-      </ul>
+
+    <!-- Top Languages Column -->
+    <td valign="top" width="34%">
+      <h3 align="center">🏆 Top Languages</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-tarek-2004&layout=compact&theme=dark&card_width=300" alt="Top Languages" />
+      </div>
     </td>
   </tr>
 </table>
-
-
-### 🛠️ Featured Projects
-<div align="center">
-<a href="https://github.com/ahmed-tarek-2004/Bulky_Web_MVC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-tarek-2004&repo=Bulky_Web_MVC&theme=dark" />
-</a>
-  <a href="https://github.com/ahmed-tarek-2004/NZWalks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-tarek-2004&repo=NZWalks&theme=dark" />
-</a>
 </div>
+
+---
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -98,7 +92,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tarek-2004&theme=dark" alt="GitHub Streak" />
 </div>
 
-![snake gif](https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/ahmed-tarek-2004/ahmed-tarek-2004/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ### 📫 Other Links
 <p align="center">
