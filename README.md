@@ -58,7 +58,6 @@
         <li><b>API</b></li>
       </ul>
     </td>
-
     <!-- Tools Column -->
     <td valign="top" width="33%">
       <h3 align="center">🛠 Tools</h3>
@@ -69,7 +68,6 @@
         <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></li>
       </ul>
     </td>
-
     <!-- Top Languages Column -->
     <td valign="top" width="34%">
       <h3 align="center">🏆 Top Languages</h3>
