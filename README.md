@@ -37,7 +37,7 @@
 ### 🚀 About Me
   - 🔭 I'm currently working on **.NET Projects**
   - 🌱 I'm currently learning **.NET API**
-  - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004)
+  - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmed-tarek-2004?tab=repositories)
   - 📫 How to reach me **ahmedtarek7580@gmail.com**  
 
 ### 💻 Tech Stack
