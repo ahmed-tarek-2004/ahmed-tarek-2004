@@ -37,7 +37,7 @@
 ### 🚀 About Me
   - 🔭 I'm currently working on **.NET Projects**
   - 🌱 I'm currently learning **.NET API**
-  - 👨‍💻 Checkout My CV at [CV](https://drive.google.com/file/d/1ZwxWZN952hvRfZ72kD3nFI3PBELuub75/view?usp=sharing)
+  - 👨‍💻 Checkout My CV at [Ahmed Tarek Zaher Resume](https://drive.google.com/file/d/1hGhqEt9lEo0Rib3djZ9ce8dwIIlAtRO-/view?usp=sharing)
   - 📫 How to reach me **ahmedtarek7580@gmail.com**  
 
 ### 💻 Tech Stack
