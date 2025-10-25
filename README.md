@@ -64,7 +64,7 @@
       <ul>
         <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></li>
-        <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label="></li>
+        <li><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=C62828&logo=Linux&logoColor=FCC624&label="></li>
         <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></li>
       </ul>
