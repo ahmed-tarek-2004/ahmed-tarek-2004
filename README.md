@@ -34,9 +34,11 @@
       </div>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tarek-2004&theme=dark" alt="GitHub Streak" />
-</div>
+</div> -->
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-tarek-2004&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ---
 
