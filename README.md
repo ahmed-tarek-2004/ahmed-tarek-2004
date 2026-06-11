@@ -5,7 +5,7 @@
  - 🔭 I'm currently working on **.NET Projects**<br>  
  - 🌱 I'm currently learning **.NET API**<br>
  - 🌐 Portfolio: [Ahmed Tarek Zaher Portfolio](https://ahmedzaherportfolio2026.vercel.app/)<br>
- - 👨‍💻 Checkout My CV at [Ahmed Tarek Zaher Resume](https://drive.google.com/file/d/1hGhqEt9lEo0Rib3djZ9ce8dwIIlAtRO-/view?usp=sharing)<br>
+ - 👨‍💻 Checkout My CV at [Ahmed Tarek Zaher Resume](https://drive.google.com/file/d/1SXwxrsmqS9fYq3TEWRT5xTII1SAtybKq/view?usp=sharing)<br>
  - 📫 How to reach me **ahmedtarek7580@gmail.com**  <br>
 
 
