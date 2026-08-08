@@ -117,28 +117,12 @@ Animated year-long contribution calendar.
 
 ## 📫 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-zaher-62a652255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahmedtarek7580@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://codeforces.com/profile/Tarek_Ware" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/ahmedtarek756471/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://discordapp.com/users/1056615401850671114" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord Badge"/>
-  </a>
-</p>
-
+> Editing this section in the inspector.
+LinkedIn: in/ahmed-zaher-62a652255 · Email: ahmedtarek7580@gmail.com
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ahmed-tarek-2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=ahmed-tarek-2004&theme=github-dark" alt="ahmed-tarek-2004 social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ahmed-tarek-2004&theme=github-dark&linkedin=in%2Fahmed-zaher-62a652255&email=ahmedtarek7580%40gmail.com&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=ahmed-tarek-2004&theme=github-dark&linkedin=in%2Fahmed-zaher-62a652255&email=ahmedtarek7580%40gmail.com" alt="ahmed-tarek-2004 social section" />
   </picture>
 </p>
 
