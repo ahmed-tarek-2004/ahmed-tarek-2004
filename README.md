@@ -124,7 +124,7 @@ Animated year-long contribution calendar.
 
 ## 📫 Connect
 
-> Editing this section in the inspector.
+> 
 LinkedIn: in/ahmed-zaher-62a652255 · Email: ahmedtarek7580@gmail.com
 <p align="center">
   <picture>
