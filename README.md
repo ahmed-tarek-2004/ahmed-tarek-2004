@@ -124,8 +124,6 @@ Animated year-long contribution calendar.
 
 ## 📫 Connect
 
-> 
-LinkedIn: in/ahmed-zaher-62a652255 · Email: ahmedtarek7580@gmail.com
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ahmed-tarek-2004&theme=github-dark&linkedin=in%2Fahmed-zaher-62a652255&email=ahmedtarek7580%40gmail.com&mode=light" />
