@@ -76,7 +76,6 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-tarek-2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-tarek-2004&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" height="150" alt="GitHub Stats" />
 </div>
 <br>
