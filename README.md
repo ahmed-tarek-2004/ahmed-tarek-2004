@@ -19,9 +19,15 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 - 🔭 I'm currently working on **.NET Projects**
 - 🌱 I'm currently learning **.NET API**
-- 🌐 Portfolio: [Ahmed Tarek Zaher Portfolio](https://ahmedzaherportfolio2026.vercel.app/)
-- 👨‍💻 Checkout My CV at [Ahmed Tarek Zaher Resume](https://drive.google.com/file/d/1SXwxrsmqS9fYq3TEWRT5xTII1SAtybKq/view?usp=sharing)
 - 📫 How to reach me: **ahmedtarek7580@gmail.com**
+<p align="center">
+  <a href="https://drive.google.com/file/d/1SXwxrsmqS9fYq3TEWRT5xTII1SAtybKq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_My_CV-238636?style=for-the-badge" alt="My CV"/>
+  </a> &nbsp; &nbsp;
+  <a href="https://ahmedzaherportfolio2026.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-21262D?style=for-the-badge" alt="My Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
   <picture>
