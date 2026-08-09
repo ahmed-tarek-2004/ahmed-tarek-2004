@@ -84,11 +84,11 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-tarek-2004&count_private=true&theme=tokyo-night&show_icons=true&rank_icon=github&border_radius=10" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-tarek-2004&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" height="150" alt="GitHub Stats" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tarek-2004&radius=16&theme=tokyonight&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tarek-2004&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
 </div>
 <br>
 <div align="center">
