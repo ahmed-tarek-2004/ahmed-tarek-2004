@@ -88,7 +88,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tarek-2004&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tarek-2004&radius=16&theme=tokyonight&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
 </div>
 <br>
 <div align="center">
