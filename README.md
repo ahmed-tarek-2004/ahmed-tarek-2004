@@ -1,8 +1,5 @@
 # ahmed-tarek-2004
 
-> A Full-Stack .NET Developer
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 
