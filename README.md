@@ -72,9 +72,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-tarek-2004&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-tarek-2004&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" height="150" alt="GitHub Stats" />
