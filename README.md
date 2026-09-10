@@ -102,10 +102,15 @@
 Highlights repositories as proof of work.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ahmed-tarek-2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=ahmed-tarek-2004&theme=github-dark" alt="ahmed-tarek-2004 projects section" />
-  </picture>
+
+<picture>
+
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ahmed-tarek-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122125653%3Fu%3Df1c50fa2ac48807a047515e82a50b4e94a9a8b97%26v%3D4&repos=ahmed-tarek-2004%2FTechMeter%2Cahmed-tarek-2004%2FMVC%2Cahmed-tarek-2004%2FSpaceMarket%2Cahmed-tarek-2004%2FGithub-Actions%2Cahmed-tarek-2004%2FNike_Store&v=oss-projects-1&mode=light" />
+
+  <img src="https://www.gitskins.com/api/section/projects?username=ahmed-tarek-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122125653%3Fu%3Df1c50fa2ac48807a047515e82a50b4e94a9a8b97%26v%3D4&repos=ahmed-tarek-2004%2FTechMeter%2Cahmed-tarek-2004%2FMVC%2Cahmed-tarek-2004%2FSpaceMarket%2Cahmed-tarek-2004%2FGithub-Actions%2Cahmed-tarek-2004%2FNike_Store&v=oss-projects-1&mode=dark" width="860" alt="Ahmed Tarek Zaher maintainer repositories" />
+
+</picture>
+
 </p>
 
 ## 🐍 Heatmap
