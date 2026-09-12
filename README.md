@@ -70,8 +70,29 @@
   </picture>
 </p>
 
-## 📊 GitHub Stats
+<div align="center">
 
+  
+
+<p><code>ahmed-tarek-2004@github ~ $ ./maintainer.sh</code></p>
+
+  
+
+<p align="center">
+
+<picture>
+
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=ahmed-tarek-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122125653%3Fu%3Df1c50fa2ac48807a047515e82a50b4e94a9a8b97%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+
+  <img src="https://www.gitskins.com/api/section/system-scan?username=ahmed-tarek-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122125653%3Fu%3Df1c50fa2ac48807a047515e82a50b4e94a9a8b97%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Ahmed Tarek Zaher animated maintainer system scan" />
+
+</picture>
+
+</p>
+
+</div>
+
+## 📊 GitHub Stats
 
 <br>
 <div align="center">
